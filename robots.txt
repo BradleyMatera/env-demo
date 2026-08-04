@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradleymatera.github.io/env-demo/sitemap.xml
